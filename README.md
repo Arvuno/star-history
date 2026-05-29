@@ -178,3 +178,6 @@ cd backend && pnpm i && pnpm dev
 ```
 
 The API server will be running on http://localhost:8080.
+
+<!-- Thanks for contributing! -->
+
